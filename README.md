@@ -3,7 +3,7 @@
 My name is Igor Paganini Zanin <br>
 I'm a **Systems Analysis and Development student**, i am learning how to code
 <br> <br>
-[My **Linkedin**](https://www.linkedin.com/in/bruno-merico-mozer-7a02a5247/)
+[My **Linkedin**](https://www.linkedin.com/in/igor-zanin/)
 
 ### Languages & Tools
 
