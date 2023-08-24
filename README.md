@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 
-My name is Igor Paganini Zanin <br>
-I'm a **Systems Analysis and Development student**, i am learning how to code
+My name is Igor Paganini Zanin. <br>
+I'm a **Systems Analysis and Development student**, i am learning how to code.
 <br> <br>
 [My **Linkedin**](https://www.linkedin.com/in/igor-zanin/)
 
