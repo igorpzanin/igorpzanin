@@ -1,8 +1,10 @@
 ## Welcome to my profile!
 
 I'm Igor Paganini Zanin. <br>
-I'm a **Systems Analysis and Development student**, and i am learning how to code.
+I'm a **Systems Analysis and Development student**
+I like to code
 <br> <br>
+
 [My **Linkedin**](https://www.linkedin.com/in/igor-zanin/)
 
 ### Languages & Tools
