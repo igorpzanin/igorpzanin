@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 I'm Igor Paganini Zanin. <br>
-I'm a **DevOps Engineer** and  a**Systems Analysis and Development student** <br>
+I'm a **DevOps Engineer** and  a **Systems Analysis and Development student** <br>
 I like to code
 <br> <br>
 
